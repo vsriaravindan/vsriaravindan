@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/sriaravindanv" target="blank"><img src="https://img.shields.io/twitter/follow/sriaravindanv?logo=twitter&style=for-the-badge" alt="sriaravindanv" /></a> </p>
 
+- 🌱 I’m currently learning more on **Kubernetes, Docker, AWS, GCP, Ansible, Terraform, Chef, Puppet**
+
 - 👨‍💻 All of my projects are available at [https://sriaravindan.me/](https://sriaravindan.me/)
 
 - 📝 I regularly write articles on [https://blog.sriaravindan.me/](https://blog.sriaravindan.me/)
+
+- 💬 Ask me about **Python, Linux, YAML, Networking concepts**
 
 - 📫 How to reach me **sriaravindan@proton.me**
 
